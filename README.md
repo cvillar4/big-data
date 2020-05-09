@@ -16,3 +16,16 @@ Proyecto acerca de covid-19
 ### Agregamos los datos
 
 ![Agregando datos](/images/2.png)
+
+### Creamos el Notebook
+
+![Notebook](/images/3.png)
+![Notebook](/images/4.png)
+
+### Iniciamos Spark
+
+![Spark](/images/5.png)
+
+### Cargamos los datos
+
+![Data](/images/6.png)
