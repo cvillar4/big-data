@@ -11,4 +11,8 @@ Proyecto acerca de covid-19
 
 ### Creación del bucket
 
+![Creacion del bucket](/images/1.png)
+
 ### Agregamos los datos
+
+![Agregando datos](/images/2.png)
