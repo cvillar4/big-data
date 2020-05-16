@@ -1,6 +1,10 @@
 # Big data
 
-Proyecto acerca de covid-19
+Proyecto acerca de covid-19, cómo es su estado hasta el día 08/05/2020. Este laboratorio fue realizado por medio de Power BI, donde los datos fueron previavemente procesados por Spark.
+A continuación se data cómo se obtuvieron los datos, cómo fueron procesados y finalmente analizados y visualizados por medio de Power BI, donde se puede ver distintas cifras del covid-19.
+
+En el repositorio, se encuentra el archivo "covid.pbix" donde se realizaron los respectivos análisis y visualizaciones de los datos.
+
 
 ## Integrantes
 
